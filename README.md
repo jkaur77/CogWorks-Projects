@@ -51,31 +51,7 @@ value from scanned food images in real time.
 food images**, achieving **95% validation accuracy**
 - Integrated predictions with a **15,000+ item Food API** to generate real-time 
 nutritional breakdowns
-- Fine-tuned **GPT-2** with PyTorch for an in-app MadLibs text generator, 
-boosting user interaction by **40%**
-- Built an in-app **RAG chatbot** to answer real-time user nutrition queries
-- Reached **300+ users within 2 months** of deployment
 
-## 🧠 Tech Stack
-
-| Area | Technologies |
-|---|---|
-| Object Detection | YOLOv7, Detectron2 |
-| Deep Learning | PyTorch, TensorFlow |
-| NLP / Generation | GPT-2, RAG |
-| Computer Vision | OpenCV, NumPy |
-| Audio Processing | NumPy, SciPy, FFT |
-
-## 💻 My Contributions
-
-- Trained and deployed YOLOv7 object detection model on 50,000+ image custom 
-food dataset, achieving 95% validation accuracy
-- Integrated model predictions with a 15,000+ item Food API for real-time 
-nutritional breakdowns
-- Fine-tuned GPT-2 text generator using PyTorch, boosting user interaction by 40%
-- Built in-app RAG chatbot for real-time nutrition queries
-- Contributed to audio fingerprinting pipeline in Week 1 and semantic search 
-system in Week 3
 
 ## 🚀 How to Run
 
