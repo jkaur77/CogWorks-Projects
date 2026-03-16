@@ -1,0 +1,4 @@
+Food-Detection/Detectron-Trash/output/model_final.pth
+Food-Detection/Detectron-Trash/venv
+Food-Detection/Detectron-Trash/train/images
+Food-Detection/Detectron-Trash/val/images

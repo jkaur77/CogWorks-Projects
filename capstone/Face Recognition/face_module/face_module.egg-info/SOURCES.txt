@@ -1,0 +1,9 @@
+README.md
+setup.py
+face_module/__init__.py
+face_module/database.py
+face_module/proc.py
+face_module.egg-info/PKG-INFO
+face_module.egg-info/SOURCES.txt
+face_module.egg-info/dependency_links.txt
+face_module.egg-info/top_level.txt
